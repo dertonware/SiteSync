@@ -30,7 +30,7 @@
 Если у вас есть вопросы или предложения, создайте issue или свяжитесь со мной через Telegram.
 
 
-#Скриншоты
+# Скриншоты
 ![Screenshot_2025-03-07-22-22-11-236_org sitesync sitesync](https://github.com/user-attachments/assets/1741e7cf-03a4-46ea-8e6e-2cb448011560)
 ![Screenshot_2025-03-07-22-22-29-521_org sitesync sitesync](https://github.com/user-attachments/assets/fd923982-ab13-4090-afbf-4d0e915e182a)
 ![Screenshot_2025-03-07-22-22-16-279_org sitesync sitesync](https://github.com/user-attachments/assets/f95ba609-7e03-4c69-9742-79342ff6af32)
